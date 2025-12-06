@@ -37,7 +37,7 @@ function Background() {
                             height: "2px",
                         }}
                         animate={{
-                            opacity: [0.2, 0.6, 0.2],
+                            opacity: [0.15, 0.35, 0.15],
                             scale: [star.scale, star.scale * 1.5, star.scale],
                         }}
                         transition={{
